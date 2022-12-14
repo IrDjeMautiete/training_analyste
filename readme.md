@@ -1,5 +1,5 @@
-Qu'est kon s'emmerde à Technotruc
-
+#Qu'est kon s'emmerde à Technotruc
+# choses à retenir absolument
 git add
 git commit
 git pull
@@ -8,3 +8,4 @@ git log
 git init
 git status
 git reset
+- git remote
